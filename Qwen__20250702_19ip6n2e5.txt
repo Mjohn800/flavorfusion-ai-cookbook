@@ -1,0 +1,13 @@
+flavorfusion/
+├── README.md
+├── package.json
+├── frontend/
+│   ├── public/
+│   │   └── index.html
+│   ├── src/
+│   │   ├── index.js
+│   │   └── App.jsx
+│   └── package.json
+└── backend/
+    ├── server.js
+    └── package.json

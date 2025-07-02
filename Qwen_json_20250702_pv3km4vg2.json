@@ -1,0 +1,8 @@
+{
+  "name": "flavorfusion",
+  "private": true,
+  "workspaces": ["frontend", "backend"],
+  "scripts": {
+    "start": "cd frontend && npm start"
+  }
+}
